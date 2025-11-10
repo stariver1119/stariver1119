@@ -1,11 +1,14 @@
 ## Hi there 👋
 
-<!--
-**stariver1119/stariver1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am stariver.
 
-Here are some ideas to get you started:
+- Founder with a multifaceted background: writer, community leader, photographer, product designer, video creator, and developer.
+- Studied development at 42 Seoul (École 42's peer-learning program). Took a detour into photography, now building again in the AI-native era.
+- Shipping products with Claude Code. Growing products the way Koreans do best: through engaging video content and viral marketing on YouTube.
+- Newly fascinated by data analytics and Palantir's methodology. Preparing projects that thread data-driven solutions into seamless workflows.
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
