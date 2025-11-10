@@ -7,6 +7,12 @@ I am stariver.
 - Shipping products with Claude Code. Growing products the way Koreans do best: through engaging video content and viral marketing on YouTube.
 - Newly fascinated by data analytics and Palantir's methodology. Preparing projects that thread data-driven solutions into seamless workflows.
 
+### What I'm building...
+- [askstar](askstar.kr) - Sign Analysis Service
+
+### I'm building now...
+- [viewtone/olwatch](link) - Ultimate binge-watching Service
+
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
