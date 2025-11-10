@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am stariver.
+I am Collie Kim.
 
 ### About me
 
